@@ -35,8 +35,8 @@ const WhatsAppChat = ({ scene }: WhatsAppChatProps) => {
       id: 1,
       type: 'user',
       content: {
-        image: '/placeholder.svg',
-        text: 'Handmade Tote Bag — Rs.1200 — Eco-friendly, cotton-based, washable'
+        image: '/lovable-uploads/c36d83c1-039a-4eb3-abb7-2a82723105bd.png',
+        text: 'Kantha Carryall Bag — Rs.1200 — One-of-a-kind jet-setting bag with front pocket'
       },
       time: '2:14 PM'
     },
@@ -44,8 +44,8 @@ const WhatsAppChat = ({ scene }: WhatsAppChatProps) => {
       id: 2,
       type: 'user',
       content: {
-        image: '/placeholder.svg',
-        text: 'Embroidered Cushion — Rs.950 — Soft, pastel colors, great for sofas'
+        image: '/lovable-uploads/a83672d9-eebc-455e-acf7-fa7d20e39c9e.png',
+        text: 'Decorative Cushion Cover — Rs.950 — Cotton cushion cover, perfect for living spaces'
       },
       time: '2:15 PM'
     },
@@ -53,8 +53,8 @@ const WhatsAppChat = ({ scene }: WhatsAppChatProps) => {
       id: 3,
       type: 'user',
       content: {
-        image: '/placeholder.svg',
-        text: 'Clay Coffee Mug — Rs.850 — Handmade, microwave safe, matte finish'
+        image: '/lovable-uploads/c1f8b8d2-a290-4b5e-804e-a2f42e66b0c2.png',
+        text: 'Handcrafted Ceramic Mug — Rs.850 — Hand-thrown speckled glazed mug, holds 12 oz'
       },
       time: '2:16 PM'
     },
